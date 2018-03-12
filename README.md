@@ -8,7 +8,7 @@ Il reste plusieurs choses à améliorer :
 1. Eviter les doublons
 2. Rendre le code plus lisible grâce au MVC
 3. Retirer les "br" pour display les 10 derniers messages des connectés 
-4. Trouver le problème avec l'heure : sur mon portable, l'heure reste affiché à "now", alors que sur mon fixe, tout fonctionne correctement (cache ?)
+4. Trouver le problème avec l'heure : sur mon portable, l'heure reste affichée à "now", alors que sur mon fixe, tout fonctionne correctement (cache ?)
 5. Message/tuto pour les 4/5 commandes disponibles, à display lors de la première connection
 6. Trouver un autre moyen que les position: absolute, même si c'est pas évident avec les iframe
 7. Faire plus de fonctions pour rendre le tout plus facile
@@ -17,7 +17,7 @@ Il reste plusieurs choses à améliorer :
 à ajouter (même si l'effet terminal risque d'en prendre un coup) : 
 1. Emojis
 2. Photo de profil
-3. Description
+3. Description de profil
 
 
 Ce que j'ai appris 
