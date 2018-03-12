@@ -1,0 +1,178 @@
+html, body, iframe {
+  height: 95%;
+}
+
+body {
+  font-family : 'Ubuntu Mono', monospace;
+  margin : 0;
+  padding : 0;
+  background-color : RGB(48,10,36);
+  color : white;
+  font-weight : 500;
+  font-size : 16;
+  letter-spacing: 1px;
+}
+
+h1 {
+  text-align : right;
+  margin-right : 200px;
+  font-weight : bolder;
+}
+
+ul {
+  display : block;
+  margin : 0;
+  width : 60%;
+  margin-bottom : 100px;
+  word-break: normal;
+  min-width : 500px;
+}
+
+li {
+  list-style : none;
+}
+
+
+a {
+  text-decoration: none;
+  color : white;
+  transition : ease;
+}
+
+a:hover {
+  opacity : 0.7;
+}
+
+p {
+  width : 150;
+  text-align : center;
+}
+
+
+
+.iframe {
+  position : absolute;
+  left : 0px;
+  height : 0px;
+  width : 20%;
+  height : 100%;
+}
+
+.iframe--chat {
+position:absolute;
+right : 0;
+top:0;
+height:100%;
+width:75%;
+}
+
+
+.email {
+  color : #8ae234;
+  font-weight : bold;
+  padding-left : 10px;
+}
+
+.home {
+  color : #729fcf;
+  font-weight : bolder;
+}
+.sub {
+  position: absolute;
+  left : -9999px;
+  width : 1px;
+  height : 1px;
+  z-index : -1;
+}
+
+.red {
+  font-weight : bolder;
+  color : #A34643;
+  padding-left : 10px;
+}
+
+.blue {
+  font-weight : bolder;
+  color : #63699F;
+  padding-left : 10px;
+}
+
+.green {
+  font-weight : bolder;
+  color : #278C36;
+  padding-left : 10px;
+}
+
+.white {
+  font-weight : bolder;
+  color : #8C8A28;
+  padding-left : 10px;
+}
+
+.orange {
+  font-weight : bolder;
+  color : #D9A23E;
+  padding-left : 10px;
+}
+
+.input {
+  width : 400px;
+  margin : 0;
+  padding : 0;
+  background-color : RGB(48,10,36);
+  border : none;
+  color : white;
+  font-weight : 500;
+  font-size : 16;
+  letter-spacing: 1px;
+}
+
+.date {
+  float : right;
+  margin-right : 5px;
+  font-size : 13px;
+  opacity: 0.25;
+}
+
+.input--position {
+  position : fixed;
+  bottom : 0px;
+  width : 50%;
+  left : 25%;
+  padding-bottom : 10px;
+  background-color : RGB(48,10,36);
+  border-top : 3px solid #f18f68;
+  min-width : 500px;
+}
+
+.marginmsg {
+  padding-left : 100px;
+  padding-right : 100px;
+}
+
+.pseudo--position {
+  padding-top : 50px;
+  padding-bottom : 10px;
+  text-align : center;
+}
+
+.pseudal {
+  text-align : center;
+  color : #729fcf;
+}
+
+.lastmsg {
+  text-align : center;
+  border : 1px solid white;
+  padding : 3px;
+}
+
+.allmsg {
+  border : 1px solid white;
+  padding : 3px;
+}
+
+.datemsg {
+  text-align : center;
+  opacity : 0.25;
+}
