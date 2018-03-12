@@ -7,7 +7,7 @@ https://www.dorianc.monprofil.be/index.php
 Il reste plusieurs choses à améliorer : 
 1. Eviter les doublons
 2. Rendre le code plus lisible grâce au MVC
-3. Retirer les <br /> pour display les 10 derniers messages des connectés 
+3. Retirer les "br" pour display les 10 derniers messages des connectés 
 4. Trouver le problème avec l'heure : sur mon portable, l'heure reste affiché à "now", alors que sur mon fixe, tout fonctionne correctement (cache ?)
 5. Message/tuto pour les 4/5 commandes disponibles, à display lors de la première connection
 6. Trouver un autre moyen que les position: absolute, même si c'est pas évident avec les iframe
